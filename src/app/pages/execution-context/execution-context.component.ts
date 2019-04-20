@@ -28,6 +28,10 @@ export class ExecutionContextComponent {
   }
 
   introDemo() {
+
+    of(42).subscribe(() =>
+      console.log('observable'));
+
     requestAnimationFrame(
       () => console.log('1 animation frame'));
 

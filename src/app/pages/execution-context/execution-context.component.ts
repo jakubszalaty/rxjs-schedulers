@@ -63,7 +63,7 @@ export class ExecutionContextComponent {
 
   executionOrder() {
 
-    const delay = 0;
+    const delay = 1;
     const obs$ = of(42);
 
     obs$.pipe(observeOn(animationFrameScheduler, delay))

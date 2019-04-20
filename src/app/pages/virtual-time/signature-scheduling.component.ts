@@ -76,10 +76,10 @@ export class SignatureSchedulingComponent {
         const delay = this.getDelayForPoint(point, startMs);
         const initialState = {segmentIndex, point};
         const work = (state) => {
-          console.log('initialState:', state);
-          // const actualSignature = this.getCurrentAnimatedSignature();
-          // const updatedSignature = this.getUpdateSignature(actualSignature, state.segmentIndex, state.point);
-          // this.updateAnimatedSignature(updatedSignature);
+          // console.log('initialState:', state);
+          const actualSignature = this.getCurrentAnimatedSignature();
+          const updatedSignature = this.getUpdateSignature(actualSignature, state.segmentIndex, state.point);
+          this.updateAnimatedSignature(updatedSignature);
         };
 
         scheduler.schedule(work, delay, initialState);

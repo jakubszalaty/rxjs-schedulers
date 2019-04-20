@@ -92,8 +92,7 @@ export class SignatureSchedulingComponent {
     });
 
     if (showImmediately) {
-      (scheduler as VirtualTimeScheduler);
-
+      (scheduler as VirtualTimeScheduler).flush();
     }
   }
 

@@ -29,8 +29,8 @@ export class ExecutionContextComponent {
 
   introDemo() {
 
-    of(42).subscribe(() =>
-      console.log('observable'));
+    of(42).pipe(observeOn(asyncScheduler))
+      .subscribe(() => console.log('observable'));
 
     requestAnimationFrame(
       () => console.log('1 animation frame'));

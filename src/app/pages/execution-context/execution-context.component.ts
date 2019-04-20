@@ -20,9 +20,9 @@ export class ExecutionContextComponent {
 
   constructor() {
     // 1
-    this.introDemo();
+    // this.introDemo();
     // 2
-    // this.executionOrder();
+    this.executionOrder();
     // 3
     // this.manualScheduling();
   }

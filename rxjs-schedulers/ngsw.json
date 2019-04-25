@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "index": "https://jakubszalaty.github.io/rxjs-schedulers/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://jakubszalaty.github.io/rxjs-schedulers/10.d7635e6187c270f181f6.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/2.4ab68999282077e89717.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/3.94b401060004cf146c54.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/7.fe80eb258d5cbecfde9d.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/8.94fc2609816e0666580d.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/9.c61a6ca36680518aa316.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/common.1017bc93299e1ba95382.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/favicon.ico",
+        "https://jakubszalaty.github.io/rxjs-schedulers/index.html",
+        "https://jakubszalaty.github.io/rxjs-schedulers/main.8b4aeb996b2fb8c1d6ed.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/polyfills.848433b2c3bab9543d3f.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/runtime.268aa79f78543801b5c8.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/styles.09e3a514e6d2457f28f8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/elements/elements.js",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-128x128.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-144x144.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-152x152.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-192x192.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-384x384.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-512x512.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-72x72.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-96x96.png",
+        "https://jakubszalaty.github.io/rxjs-schedulers/assets/scss/styles.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://jakubszalaty.github.io/rxjs-schedulers/10.d7635e6187c270f181f6.js": "7d8cf0ba401a9d154b54337c63c840253e0ccdd5",
+    "https://jakubszalaty.github.io/rxjs-schedulers/2.4ab68999282077e89717.js": "a4296fb5acc0535300f4918d39b4c5b60f01da68",
+    "https://jakubszalaty.github.io/rxjs-schedulers/3.94b401060004cf146c54.js": "ed937548cb08c523a3ecc2e641c404921e006d4e",
+    "https://jakubszalaty.github.io/rxjs-schedulers/7.fe80eb258d5cbecfde9d.js": "88a21139a493184bdc73f64b1fa067ea18107443",
+    "https://jakubszalaty.github.io/rxjs-schedulers/8.94fc2609816e0666580d.js": "ef7f233fbcaa4548ffdd4ca7880b11381b5e0854",
+    "https://jakubszalaty.github.io/rxjs-schedulers/9.c61a6ca36680518aa316.js": "ab89644699a206bd2e5dc3b8ea57c0bfc7df8697",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/elements/elements.js": "d998278dd025ede665b450443e23c0f4456cc65b",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://jakubszalaty.github.io/rxjs-schedulers/assets/scss/styles.scss": "7aff43c94c3c1343ed6ed720b5ba6b15c2fff915",
+    "https://jakubszalaty.github.io/rxjs-schedulers/common.1017bc93299e1ba95382.js": "7bfe5c6f9dbf4edf832bf6f9dbe9a3337d3a72bd",
+    "https://jakubszalaty.github.io/rxjs-schedulers/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://jakubszalaty.github.io/rxjs-schedulers/index.html": "3b62f06fa183dce67f527ff0e2529348b6ba89af",
+    "https://jakubszalaty.github.io/rxjs-schedulers/main.8b4aeb996b2fb8c1d6ed.js": "9e841e3b34f158e5d673ec750e11d986f2c872f6",
+    "https://jakubszalaty.github.io/rxjs-schedulers/polyfills.848433b2c3bab9543d3f.js": "2ed310d3a9b9275d3b61c65b4ab7909bceff17f5",
+    "https://jakubszalaty.github.io/rxjs-schedulers/runtime.268aa79f78543801b5c8.js": "8050b3a3e244ba7693a154f4337e96c763c81063",
+    "https://jakubszalaty.github.io/rxjs-schedulers/styles.09e3a514e6d2457f28f8.css": "90e4097425f7676ec0dc298eb4ccb1cda7d0e139"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
